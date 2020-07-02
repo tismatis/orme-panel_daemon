@@ -1,0 +1,7 @@
+const {spawn} = require ('child_process');
+const cmd = 'java -jar spigot-1.12.2.jar';
+const p = spawn (cmd, [], {shell: true});
+
+p.stdout.on ('data', (data) => {
+     console.log (data.toString ());
+});

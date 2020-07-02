@@ -1,0 +1,13 @@
+{
+    "folder": "C:/Users/Matis/Desktop/nuggets/daemon/daemon-data/testserv1",
+    "apikey": "Dn5RnwJLUDQSbQ56CJTu11R9cKf6r1dQjwF",
+    "server_info": {
+        "adress_ip": "192.168.1.159",
+        "port": "8080",
+        "sftp": {
+            "port": "2121",
+            "module_enable": "OFF", 
+            "_comment_module_enable": "OFF & ON CAN USED!"
+        }
+    }
+}
